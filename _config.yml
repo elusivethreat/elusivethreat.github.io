@@ -1,0 +1,32 @@
+# site settings
+title: Elusive
+subtitle: threat
+email: elusivethreat@
+description: hard to find, capture or isolate ...
+baseurl: '' # the subpath of your site, e.g. /blog
+url: https://elusivethreat.com # the base hostname & protocol for your site
+author:
+street_address: Covert Location
+city:
+state:
+zip_code:
+country: United States of America
+phone: (000) 010-0101
+
+# homepage tiles -- increment tiles-count every time you add a new post
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+
+# build settings
+markdown: kramdown
+highlighter: pygments
+
+sass:
+  style: compressed
