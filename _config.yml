@@ -26,7 +26,7 @@ gitlab_url:
 
 # build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 sass:
   style: compressed
