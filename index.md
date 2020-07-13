@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Rise of the Machines . . .'
-description: ''
+landing-title: '- _ e-lu-sive _ -'
+description: ' Tending to elude capture, perception, comprehension, or memory.'
 image: assets/images/nasa.jpg
-author: null
+author: Unknown
 show_tile: false
 ---
 
